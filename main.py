@@ -2059,7 +2059,7 @@ async def main():
 
     # concise welcome + nicer config/meta logs
     base_blu.log(
-        f"🎉 [LIVEXORDS] === Welcome to {NAME_BOT} Automation === [LIVEXORDS]",
+        f"🎉 [MRPTech] === Welcome to {NAME_BOT} Script === [MRPTech]",
         Fore.YELLOW,
     )
 
