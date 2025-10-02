@@ -188,10 +188,10 @@ class iflux:
     def banner(self):
         self.log("")
         self.log("=======================================", Fore.CYAN)
-        self.log(f"           🎉  {NAME_BOT} BOT 🎉             ", Fore.CYAN)
+        self.log(f"           🎉  Iflux MRPTech BOT 🎉             ", Fore.CYAN)
         self.log("=======================================", Fore.CYAN)
-        self.log("🚀  by LIVEXORDS", Fore.CYAN)
-        self.log("📢  t.me/livexordsscript", Fore.CYAN)
+        self.log("🚀  by MRPTech", Fore.CYAN)
+        self.log("📢  https://t.me/mrptechofficial", Fore.CYAN)
         self.log("=======================================", Fore.CYAN)
         self.log("")
 
