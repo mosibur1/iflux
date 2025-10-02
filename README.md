@@ -11,7 +11,7 @@
   <a href="https://codeberg.org/livexords/ddai-bot/actions" style="display: inline-block;">
     <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="Build Status" />
   </a>
-  <a href="https://t.me/livexordsscript" style="display: inline-block;">
+  <a href="https://t.me/mrptechofficial" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?logo=telegram&style=flat" alt="Telegram Group" />
   </a>
 </p>
@@ -72,7 +72,7 @@ Iflux Bot is built with flexibility and efficiency in mind – it's here to help
 Before you start using Iflux-bot Bot, make sure to register your account.  
 Click the link below to get started:
 
-[🔗 Register for Iflux Bot](https://depin.iflux.global?ref=MjUxMDAxMzAx)
+[🔗 Register for Iflux Bot](https://depin.iflux.global/?ref=MjUxMDAyMjI3)
 
 ---
 
@@ -129,13 +129,13 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://codeberg.org/LIVEXORDS/iflux-bot.git
+   git clone https://github.com/mosibur1/iflux.git
    ```
 
 2. **Navigate to the Project Folder**
 
    ```bash
-   cd iflux-bot
+   cd iflux
    ```
 
 3. **Install Dependencies**
@@ -154,31 +154,12 @@ pip install -r requirements.txt
    email|password
    yes|123132
    ```
-
-5. **Set Up Proxy (Optional)**  
-   To use a proxy, create a `proxy.txt` file and add proxies in the format:
-
-   ```
-   http://username:password@ip:port
-   ```
-
-   _Only HTTP and HTTPS proxies are supported._
-
-6. **Run Bot**
+   
+5. **Run Bot**
 
    ```bash
    python main.py
    ```
-
----
-
-### 🔹 Need Free Proxies for Farming or Testnets?
-
-Get **1GB/month free proxies** from [Webshare.io](https://www.webshare.io/?referral_code=k8udyiwp88n0) — no credit card, no KYC.
-Perfect for bots, farming, automation, and multi-account setups.
-
-> _We personally use this for development and multi-account setups – reliable and simple._
-
 ---
 
 ## 📂 Project Structure
@@ -194,26 +175,6 @@ iflux-bot/
 ├── LICENSE             # License for the project
 └── README.md           # Project documentation
 ```
-
----
-
-## 🛠️ Contributing
-
-This project is developed by **Livexords**.  
-If you have ideas, questions, or want to contribute, please join our Telegram group for discussions and updates.  
-For contribution guidelines, please consider:
-
-- **Code Style:** Follow standard Python coding conventions.
-- **Pull Requests:** Test your changes before submitting a PR.
-- **Feature Requests & Bugs:** Report and discuss via our Telegram group.
-
-<div align="center">
-  <a href="https://t.me/livexordsscript" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?logo=telegram&style=for-the-badge" height="25" alt="Telegram Group" />
-  </a>
-</div>
-
----
 
 ## 📖 License
 
@@ -231,12 +192,5 @@ python main.py
 ```
 
 You should see output indicating the bot has started its operations. For further instructions or troubleshooting, please check our Telegram group or open an issue in the repository.
-
----
-
-## 📣 Community & Support
-
-For support, updates, and feature requests, join our Telegram group.  
-This is the central hub for all discussions related to Iflux-bot Bot, including roadmap ideas and bug fixes.
 
 ---
